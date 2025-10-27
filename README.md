@@ -22,4 +22,3 @@ ForgeLords is not a community.
 It’s a foundry where developers are made.
 
 If you’re ready to build, step forward.
-
